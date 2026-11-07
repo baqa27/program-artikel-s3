@@ -6,6 +6,11 @@ Python 3.10 ke atas. Pasang pustaka di satu venv/conda:
 pip install -r requirements.txt
 ```
 
+Versi pustaka laptop saat replikasi (6 November 2026):
+```bash
+pip install -r requirements_laptop.txt
+```
+
 Jalankan semua perintah dari folder `05_kode`.
 
 ## Folder `kemiripan/`
